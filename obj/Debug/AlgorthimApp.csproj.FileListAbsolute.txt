@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\AlgorthimApp\AlgorthimApp\obj\Debug\AlgorthimApp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AlgorthimApp\AlgorthimApp\obj\Debug\AlgorthimApp.csproj.CoreCompileInputs.cache
